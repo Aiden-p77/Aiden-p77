@@ -1,7 +1,7 @@
-### Hi 👋 My name is Aiden Kazemzadeh.
+# Hi 👋 My name is Aiden Kazemzadeh.
 ==============================
 
-Software Developer
+## Software Developer
 --------------------
 
 I'm a Software Developer experienced with Delphi and C# programming languages also familiar with some basics of Server management using Windows Server & Linux.
